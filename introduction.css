@@ -1,0 +1,24 @@
+@charset "utf-8";
+.text_Hist{
+	text-align: center;
+	border: solid black thin;
+	font-size: 40px;
+	color: white;
+	background-color: black;
+	border-radius: 20px;
+}
+.head_text,.timeline {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+}
+.text{
+	font-size: 20px;
+	padding-left: 5px;
+}
+.text:hover{
+	border: black thin solid;
+	border-radius: 10px;
+	background-color: black;
+	color: white;
+}

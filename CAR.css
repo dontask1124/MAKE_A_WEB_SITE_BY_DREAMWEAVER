@@ -1,0 +1,26 @@
+/* CSS Document */
+.pic_car img:hover{
+	width: 110%;
+	height: 300px;
+}
+.pic_car td{
+	border-left: #828282 thin solid;
+	border-right: #828282 thin solid;
+	border-top: #828282 thin solid;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+
+}
+
+.price_type td{
+	text-align: center;
+	border: thin solid #828282;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+	
+	border-top: thin solid white;
+}
+.type_car{
+	font-size: 30px;
+	border-bottom: thin black solid;
+}

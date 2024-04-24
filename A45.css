@@ -1,0 +1,21 @@
+@charset "UTF-8";
+.car_Color:hover{
+	
+	border: solid black thin;
+}
+.car_Color{
+	border-radius: 10px;
+}
+.name_Car{
+	border: solid thin;
+	border-radius: 10px;
+	}
+.head-Interior{
+	font-size: 40px;
+	text-align: center;
+	border-bottom: solid thin;
+	border-top: solid thin;
+}
+.interior{
+	padding-top: 20px;
+}
